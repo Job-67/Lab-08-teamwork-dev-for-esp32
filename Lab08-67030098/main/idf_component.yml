@@ -1,0 +1,3 @@
+dependencies:
+  lab7_components:
+    git: https://github.com/APPLICATIONS-OF-MICROCONTROLLERS/Lab7_Components.git
