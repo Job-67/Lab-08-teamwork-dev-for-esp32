@@ -1,0 +1,8 @@
+# ESP-IDF build files
+build/
+*.o
+*.obj
+*.a
+*.so
+*.elf
+*.bin

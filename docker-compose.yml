@@ -1,7 +1,7 @@
 services:
   esp32-dev:
     image: espressif/idf:latest
-    container_name: esp32-lab8
+    container_name: esp32-lab6-1
     volumes:
       - .:/project
     working_dir: /project

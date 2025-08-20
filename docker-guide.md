@@ -38,7 +38,7 @@ networks:
 4. เข้าใปใน bash ของ docker
 
 ```
-docker-compose exec -it esp32-dev  bash
+docker-compose exec -it [ชื่อที่เห็นจากในข้อ 3]  bash
 ```
 5. export environment variables ของ ESP32
 

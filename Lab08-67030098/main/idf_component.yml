@@ -1,3 +1,12 @@
 dependencies:
-  lab7_components:
-    git: https://github.com/APPLICATIONS-OF-MICROCONTROLLERS/Lab7_Components.git
+  sensor:
+    git: https://github.com/Kritternai/Lab-08-teamwork-dev-for-esp32.git
+    path: sensor
+    version: "*"
+  display:
+    git: https://github.com/Job-67/Lab-08-teamwork-dev-for-esp32.git
+    path: Display
+    version: "*"
+  led:
+    git: https://github.com/016Rusneeda/LED.git
+    version: "*"
